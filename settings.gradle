@@ -1,0 +1,3 @@
+include ':charitylibrary'
+include ':app'
+rootProject.name = "Charity Finder"
